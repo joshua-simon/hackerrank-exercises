@@ -28,4 +28,3 @@ const plusMinus = (arr) => {
     console.log(Number(zeroCount/arr.length).toFixed(6))
   }
   
-  

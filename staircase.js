@@ -32,3 +32,6 @@ for(let i=1;i<=n;i++){
 //last index to first index.
 //so you start with an array of n length, fill the first position which is n-1,
 //and for each interation fill from right to left
+
+
+
